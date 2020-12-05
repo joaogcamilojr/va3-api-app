@@ -1,0 +1,8 @@
+.vscode
+node_modules/
+coverage/
+temp/
+images/*
+!images/.gitkeep
+.env
+.env.prod
